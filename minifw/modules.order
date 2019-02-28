@@ -1,0 +1,5 @@
+kernel//home/seed/lab2/minifw/telnetin.ko
+kernel//home/seed/lab2/minifw/telnetout.ko
+kernel//home/seed/lab2/minifw/webout.ko
+kernel//home/seed/lab2/minifw/sshin.ko
+kernel//home/seed/lab2/minifw/sshout.ko

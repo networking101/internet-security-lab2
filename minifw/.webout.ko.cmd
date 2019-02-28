@@ -1,0 +1,1 @@
+cmd_/home/seed/lab2/minifw/webout.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/lab2/minifw/webout.ko /home/seed/lab2/minifw/webout.o /home/seed/lab2/minifw/webout.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/seed/lab2/minifw/telnetout.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/lab2/minifw/telnetout.ko /home/seed/lab2/minifw/telnetout.o /home/seed/lab2/minifw/telnetout.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/seed/lab2/minifw/telnetin.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/lab2/minifw/telnetin.ko /home/seed/lab2/minifw/telnetin.o /home/seed/lab2/minifw/telnetin.mod.o
